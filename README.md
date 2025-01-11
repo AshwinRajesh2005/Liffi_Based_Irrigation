@@ -8,7 +8,9 @@ This project demonstrates a smart irrigation system that uses Light Fidelity (Li
 Team Members:
 
 Ashwin R
+
 Ajay Shrikaanth A S
+
 Madhavan
 
 Objective

@@ -24,6 +24,7 @@ Step-by-Step Description
 The system consists of a moisture sensor, a pump, and a LiFi communication module.
 The moisture sensor is connected to the Arduino, which continuously measures the soil’s moisture level.
 The LiFi communication module is used to send data between the system components, with commands like "PumpOn" or "PumpOff" transmitted when required.
+
 2.) Hardware Setup
 
 Moisture Sensor: The sensor is connected to an analog pin of the Arduino to measure the moisture level in the soil.
@@ -46,6 +47,9 @@ When the soil moisture reaches a sufficient level, the system sends a signal to 
 The code provided in the repository controls the moisture sensor, reads data, and uses the SoftwareSerial library for LiFi communication.
 The moisture sensor’s analog reading determines when the pump should be activated or deactivated.
 
+![WhatsApp Image 2025-01-11 at 17 32 54_071ae3e4](https://github.com/user-attachments/assets/73f8ee86-c2f3-4d88-bb1b-2325332791f1)
+
+
 Conclusion
 
 By integrating LiFi technology into the irrigation system, we have created an innovative and efficient way to automate irrigation based on soil moisture. The system’s use of visible light communication ensures a reliable and secure method of transmitting data, making it ideal for agricultural applications.
@@ -54,5 +58,7 @@ By integrating LiFi technology into the irrigation system, we have created an in
 Future Improvements
 
 1.)Integration with mobile or web applications for remote monitoring.
+
 2.)Use of more advanced sensors for better environmental control.
+
 3.)Optimizing the system for energy efficiency.

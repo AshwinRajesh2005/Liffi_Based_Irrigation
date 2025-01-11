@@ -47,7 +47,8 @@ When the soil moisture reaches a sufficient level, the system sends a signal to 
 The code provided in the repository controls the moisture sensor, reads data, and uses the SoftwareSerial library for LiFi communication.
 The moisture sensor’s analog reading determines when the pump should be activated or deactivated.
 
-![WhatsApp Image 2025-01-11 at 17 32 54_071ae3e4](https://github.com/user-attachments/assets/73f8ee86-c2f3-4d88-bb1b-2325332791f1)
+![WhatsApp Image 2025-01-11 at 17 44 56_6ec79179](https://github.com/user-attachments/assets/3b6b67f2-7ec1-4c02-9f86-9ba004c02cfa)
+
 
 
 Conclusion
